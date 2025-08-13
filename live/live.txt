@@ -22,16 +22,7 @@ Unknown Channel: http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 Unknown Channel: http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 Unknown Channel: http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 Unknown Channel: http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
-Unknown Channel: http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
-Unknown Channel: http://s1.an94tv.cfd/aktv2/viu6/AKTV.m3u8
-Unknown Channel: http://s1.an94tv.cfd/aktv2/viutv1/AKTV.m3u8
-Unknown Channel: http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-Unknown Channel: http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
-Unknown Channel: http://s1.an94tv.cfd/aktv2/CH-4/AKTV.m3u8
-Unknown Channel: http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-Unknown Channel: http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 Unknown Channel: http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
-Unknown Channel: http://s1.an94tv.cfd/aktv3/f1/AKTV.m3u8
 Unknown Channel: http://s1.an94tv.cfd/aktv3/rthk32/AKTV.m3u8
 Unknown Channel: http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
 Unknown Channel: http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
